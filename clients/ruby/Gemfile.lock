@@ -26,7 +26,7 @@ GEM
       ffi (>= 1.3.0)
     ffi (1.9.25)
     hashdiff (0.3.7)
-    json (2.1.0)
+    json (2.3.1)
     method_source (0.9.0)
     pry (0.11.3)
       coderay (~> 1.1.0)
@@ -68,10 +68,10 @@ DEPENDENCIES
   autotest-fsevent (~> 0.2, >= 0.2.12)
   autotest-growl (~> 0.2, >= 0.2.16)
   autotest-rails-pure (~> 4.1, >= 4.1.2)
-  unwired-ruby-client!
   pry-byebug
   rake (~> 12.0.0)
   rspec (~> 3.6, >= 3.6.0)
+  unwired-ruby-client!
   vcr (~> 3.0, >= 3.0.1)
   webmock (~> 1.24, >= 1.24.3)
 
